@@ -39,6 +39,7 @@ pitest {
 
 test {
     systemProperties 'property': 'value'
+    testLogging.showStandardStreams = true
 }
 
 uploadArchives {
