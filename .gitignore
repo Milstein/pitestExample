@@ -1,5 +1,10 @@
 .gradle
 build/
+.classpath
+.project
+.settings
+src/main/resources/
+src/test/resources/
 
 # Ignore Gradle GUI config
 gradle-app.setting
